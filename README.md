@@ -1,5 +1,5 @@
-# learning-voronoi-treemap
-Learning Voronoi Treemap
+learning-voronoi-treemap
+# Learning Voronoi Treemap
 
 Based on "Voronoi Treemaps" at https://github.com/vanHeemstraSystems/voronoi-treemaps
 
