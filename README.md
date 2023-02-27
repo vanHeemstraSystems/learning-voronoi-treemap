@@ -11,7 +11,7 @@ Based on "Learning" at https://github.com/vanHeemstraSystems/learning
 
 Based on "Github Basic Kanban" at https://github.com/vanHeemstraSystems/github-basic-kanban
 
-Can be read as "Learning - Voronoi Treemap" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/1ao8eaAV3k35v6QY79V1/
+Can be read as "Learning - Voronoi Treemap" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/ctucNWk20QtwQV0UB2vT/
 
 Can be browsed as "Learning - Voronoi Treemap" at https://vanheemstrasystems.github.io/learning-voronoi-treemap/
 
