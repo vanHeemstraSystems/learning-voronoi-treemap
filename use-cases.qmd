@@ -1,7 +1,0 @@
----
-title: "Use Cases"
----
-
-About Use Cases
-
-See <https://vanheemstrasystems.github.io/learning-voronoi-treemap-use-cases/>

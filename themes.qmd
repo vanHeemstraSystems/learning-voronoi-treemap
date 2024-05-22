@@ -1,7 +1,0 @@
----
-title: "Themes"
----
-
-About Themes
-
-See <https://vanheemstrasystems.github.io/learning-voronoi-treemap-themes/>
